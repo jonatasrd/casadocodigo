@@ -11,7 +11,7 @@
 <body>
 
 <h3>${sucesso }</h3>
-
+<h3>${falha}</h3>
 	<table border=1>
 		<tr>
 			<td>Título</td>
